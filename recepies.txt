@@ -2,5 +2,8 @@ welcome to recepies
 kheer
 pasta
 chicken fry
+beans\
+pizza
+
 and thank you
 and thank you
